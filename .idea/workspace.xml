@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="802cfd21-ad31-4a49-a1f2-04f1b76bd949" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day24_Practice2/Gitadd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Practice2/Gitcommit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Practice2/Gitpush.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/GitFriday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/GitFriday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/HelloGitWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/HelloGitWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +41,11 @@
   </component>
   <component name="RunManager" selected="Application.GitFriday">
     <configuration name="GitFriday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.GitFriday" />
+      <option name="MAIN_CLASS_NAME" value="day23_Practice1.GitFriday" />
       <module name="gitPractice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="day23_Practice1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,11 +54,11 @@
       </method>
     </configuration>
     <configuration name="HelloGitWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.HelloGitWorld" />
+      <option name="MAIN_CLASS_NAME" value="day23_Practice1.HelloGitWorld" />
       <module name="gitPractice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="day23_Practice1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,34 +107,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="98" key="#Project_Structure/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763048125" />
+    <state x="707" y="389" width="505" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587768864322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="389" width="505" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587768864322" />
     <state x="532" y="45" key="CommitChangelistDialog2" timestamp="1587702143159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="532" y="45" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587702143159" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587700125059">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587764317857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587700125059" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587764317857" />
     <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1587763404505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="221" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763404505" />
-    <state width="1893" height="411" key="GridCell.Tab.0.bottom" timestamp="1587682987363">
+    <state width="1893" height="425" key="GridCell.Tab.0.bottom" timestamp="1587763892831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="411" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587682987363" />
-    <state width="1893" height="411" key="GridCell.Tab.0.center" timestamp="1587682987362">
+    <state width="1893" height="425" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892831" />
+    <state width="1893" height="425" key="GridCell.Tab.0.center" timestamp="1587763892831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="411" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587682987362" />
-    <state width="1893" height="411" key="GridCell.Tab.0.left" timestamp="1587682987362">
+    <state width="1893" height="425" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892831" />
+    <state width="1893" height="425" key="GridCell.Tab.0.left" timestamp="1587763892830">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="411" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587682987362" />
-    <state width="1893" height="411" key="GridCell.Tab.0.right" timestamp="1587682987362">
+    <state width="1893" height="425" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892830" />
+    <state width="1893" height="425" key="GridCell.Tab.0.right" timestamp="1587763892831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="411" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587682987362" />
+    <state width="1893" height="425" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892831" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1587763439121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
