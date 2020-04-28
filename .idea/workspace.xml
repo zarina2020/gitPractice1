@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="802cfd21-ad31-4a49-a1f2-04f1b76bd949" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day24_Practice2/Gitadd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Practice2/Gitcommit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Practice2/Gitpush.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/GitFriday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/GitFriday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/HelloGitWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/HelloGitWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Practice1/GitFriday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/GitFriday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Practice1/addCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Practice1/addCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Practice2/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Practice2/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -123,22 +121,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="221" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763404505" />
-    <state width="1893" height="425" key="GridCell.Tab.0.bottom" timestamp="1587763892831">
+    <state width="1893" height="425" key="GridCell.Tab.0.bottom" timestamp="1587771803224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="425" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892831" />
-    <state width="1893" height="425" key="GridCell.Tab.0.center" timestamp="1587763892831">
+    <state width="1893" height="425" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587771803224" />
+    <state width="1893" height="425" key="GridCell.Tab.0.center" timestamp="1587771803224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="425" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892831" />
-    <state width="1893" height="425" key="GridCell.Tab.0.left" timestamp="1587763892830">
+    <state width="1893" height="425" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587771803224" />
+    <state width="1893" height="425" key="GridCell.Tab.0.left" timestamp="1587771803224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="425" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892830" />
-    <state width="1893" height="425" key="GridCell.Tab.0.right" timestamp="1587763892831">
+    <state width="1893" height="425" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587771803224" />
+    <state width="1893" height="425" key="GridCell.Tab.0.right" timestamp="1587771803224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="425" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587763892831" />
+    <state width="1893" height="425" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587771803224" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1587763439121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
